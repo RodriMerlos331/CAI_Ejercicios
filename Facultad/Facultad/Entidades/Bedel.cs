@@ -11,5 +11,9 @@ namespace Facultad.Entidades
         private string _apodo;
 
         public string Apodo { get => _apodo; set => _apodo = value; }
+        protected override void GetCredencial()
+        {
+
+        }
     }
 }

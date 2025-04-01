@@ -9,7 +9,10 @@ namespace Facultad.Entidades
     internal class Directivo : Empleado
     {
 
+        protected override void GetCredencial()
+        {
 
+        }
 
     }
 }

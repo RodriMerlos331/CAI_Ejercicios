@@ -8,3 +8,7 @@ C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Fa
 C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.exe
 C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.pdb
+C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.Entidades.FormAlumno.resources
+C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.Entidades.FormEmpleado.resources
+C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.Login.resources
+C:\Users\User\Desktop\Facultad\CAI\CAI_Ejercicios\Facultad\Facultad\obj\Debug\Facultad.Menu.resources
