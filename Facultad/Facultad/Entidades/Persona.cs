@@ -13,9 +13,9 @@ namespace Facultad.Entidades
         private string _nombre;
         private DateTime _fechaNac;
 
-        protected string Apellido { get => _apellido; set => _apellido = value; }
-        protected string Nombre { get => _nombre; set => _nombre = value; }
-        protected DateTime FechaNac { get => _fechaNac; set => _fechaNac = value; }
+        public string Apellido { get => _apellido; set => _apellido = value; }
+        public string Nombre { get => _nombre; set => _nombre = value; }
+        public DateTime FechaNac { get => _fechaNac; set => _fechaNac = value; }
 
         public abstract void GetCredencial();
 
